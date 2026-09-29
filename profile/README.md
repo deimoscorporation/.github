@@ -15,7 +15,7 @@
 [![System](https://img.shields.io/badge/●_SYSTEM-ONLINE-10B981?style=for-the-badge&labelColor=0B0F19)](https://deimoscorp.com.br)
 [![Website](https://img.shields.io/badge/deimoscorp.com.br-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=05070B)](https://deimoscorp.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/company/deimos-corp/)
-[![Contact](https://img.shields.io/badge/Contact-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:marlon@deimoscorp.com.br)
+[![Contact](https://img.shields.io/badge/Contact-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact@deimoscorp.com.br)
 
 </div>
 
@@ -113,13 +113,13 @@ pipeline:
 ```console
 deimos@lab:~$ contact --lab
 > Building something that needs a lab, not a vendor?
-> mail:     marlon@deimoscorp.com.br
+> mail:     contact@deimoscorp.com.br
 > web:      https://deimoscorp.com.br
 > linkedin: https://www.linkedin.com/company/deimos-corp/
 ```
 
 Security researcher and found a vulnerability in one of our projects? Please report it privately to
-**marlon@deimoscorp.com.br** instead of opening a public issue.
+**contact@deimoscorp.com.br** instead of opening a public issue.
 
 ---
 
