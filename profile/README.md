@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://deimoscorp.com.br/static/img/banner.png" alt="DEIMOS CORP — Advanced AI & CyberSecurity" width="100%">
-
 ```
 ██████╗ ███████╗██╗███╗   ███╗ ██████╗ ███████╗
 ██╔══██╗██╔════╝██║████╗ ████║██╔═══██╗██╔════╝
